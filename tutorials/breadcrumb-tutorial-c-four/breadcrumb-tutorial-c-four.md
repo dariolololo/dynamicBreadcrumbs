@@ -43,7 +43,7 @@ entity Books {
 ### Content of the tab 
 **Select** all following **fields** of the Data View, so that they can be copied to the query:
 -  `Amount in CC Crcy`
--  `Controlling Area`
+-  `Controlling Area `
 -  `Cost Center`
 -  `Fiscal Year`
 -  `Fiscal Year Variant`
