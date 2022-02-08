@@ -41,7 +41,7 @@ entity Books {
 
 [OPTION BEGIN [iOS]]
 ### Content of the tab 
-**Select** all following **fields** of the Data View, so that they can be copied to the query:
+**Select** all following **fields** of  the Data View, so that they can be copied to the query:
 -  `Amount in CC Crcy`
 -  `Controlling Area`
 -  `Cost Center`
