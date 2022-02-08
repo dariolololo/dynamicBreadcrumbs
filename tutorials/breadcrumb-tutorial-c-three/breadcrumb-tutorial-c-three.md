@@ -23,7 +23,7 @@ time: 66
 
 [OPTION BEGIN [Windows]]
 ### Content of the tab 
-Click the **Data Sources** tab at the top of the screen.
+Click the **Data Sources** tab at the  top of the screen.
 
 ```cds
     namespace my.bookshop;
