@@ -13,7 +13,7 @@ time: 66
 ---
 
 [ACCORDION-BEGIN [Step 1: ](All 3 options, all with code snippets)]
-1.  From the **Sources** list, choose **Service URL**.  
+1.  From the **Sources** list, c hoose **Service URL**.  
 
 2.  Then choose the following:
 
