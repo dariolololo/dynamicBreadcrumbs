@@ -46,7 +46,7 @@ entity Books {
 -  `Controlling Area`
 -  `Cost Center`
 -  `Fiscal Year`
--  `Fiscal Year Variant`
+-  `Fiscal Year  Variant`
 -  `Cost Object`
 -  `Transaction Currency`
 -  `Fiscal Period`
