@@ -48,7 +48,7 @@ entity Books {
 -  `Fiscal Year`
 -  `Fiscal Year Variant`
 -  `Cost Object`
--  `Transaction Currency`
+-  `Transaction  Currency`
 -  `Fiscal Period`
 
 ```cds
