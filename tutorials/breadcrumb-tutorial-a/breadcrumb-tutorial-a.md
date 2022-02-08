@@ -26,7 +26,7 @@ time: 66
 Click the **Data Sources** tab at the top of the screen.
 
 ```cds
-    namespace my.bookshop;
+    namespace  my.bookshop;
 entity Books {
   key ID : UUID;
   title : String;
