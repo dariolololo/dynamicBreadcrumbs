@@ -58,7 +58,7 @@ entity Authors {
   name : String;
   books : Association to many Books;
 }
-type Genre : enum {
+type  Genre : enum {
   Mystery;
   Fiction;
   Drama;
