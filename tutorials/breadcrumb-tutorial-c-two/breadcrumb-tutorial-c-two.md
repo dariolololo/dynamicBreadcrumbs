@@ -85,7 +85,7 @@ type Genre : enum {
 }
 service CatalogService {
   entity Books as projection on bookshop.Books;
-  entity Authors as projection on bookshop.Authors;
+  entity Authors as  projection on bookshop.Authors;
 }
 ```
  
