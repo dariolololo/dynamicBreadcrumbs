@@ -2,7 +2,7 @@
 title: Breadcrumb Tutorial H One
 description: Breadcrumb Tutorial H One
 primary_tag: products>sap-consumer-sales-intelligence
-tags: [  tutorial>how-to, tutorial>beginner, products>sap-hana, products>sap-hana\,-express-edition  ]
+tags: [  tutorial>how-to, tutorial>community, tutorial>beginner, products>sap-hana, products>sap-hana\,-express-edition  ]
 time: 66
 
 ---
